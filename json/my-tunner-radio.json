@@ -1,0 +1,974 @@
+[
+  {
+    "name": "Top Albania Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/c8d231ed03d21529167d8745c12947375a0032d8.png",
+    "category": "Acid Jazz",
+    "url": "https://live.top-media.al/tar"
+  },
+  {
+    "name": "NRG Energy Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/61ffaedcb686f532b2c2e7780eb37161180b7575.jpg",
+    "category": "English",
+    "url": "https://ice31.securenetsystems.net:80/AL09"
+  },
+  {
+    "name": "Radio Tirana 1",
+    "logo": "http://api.radiosworld.info/files/radio/logo/29e54dfac6023f6b9e6653fb842d27053ad83eac.png",
+    "category": "Alternative",
+    "url": "http://79.106.48.2:8000/radiotirana1"
+  },
+  {
+    "name": "Radio Shqip",
+    "logo": "http://api.radiosworld.info/files/radio/logo/e82ebb7eae9575c92bf8e27508ddcc220ee78262.png",
+    "category": "Acid Jazz",
+    "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=%2Fstream"
+  },
+  {
+    "name": "Radio Mergimi",
+    "logo": "http://api.radiosworld.info/files/radio/logo/3cc75d0193684cf8b25c05ebd17fd77efda69b30.png",
+    "category": "Acid Jazz",
+    "url": "http://144.76.33.185:8000/;music.mp3"
+  },
+  {
+    "name": "Radio Dardania",
+    "logo": "http://api.radiosworld.info/files/radio/logo/9dae819b0a0dbd6d22811dc5a9405c977472cf23.jpg",
+    "category": "Acid Jazz",
+    "url": "http://radio.radiodardania.com:4000"
+  },
+  {
+    "name": "Club FM",
+    "logo": "http://api.radiosworld.info/files/radio/logo/174e29a7458323094dfce97db8ec24fd05519318.jpeg",
+    "category": "Acoustic",
+    "url": "https://cp1.sednastream.com/proxy/clubfm?mp=%2Fstream"
+  },
+  {
+    "name": "Top Gold",
+    "logo": "http://api.radiosworld.info/files/radio/logo/23e16dac950090adc4cdd929847dc387aff1799c.png",
+    "category": "Alternative",
+    "url": "https://live.topgold.al/topgold"
+  },
+  {
+    "name": "Alpo Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/a0e0f4a702223e684e5d062820ee31f0ef443642.png",
+    "category": "Ambient",
+    "url": "https://cp1.sednastream.com/proxy/alporadio/stream"
+  },
+  {
+    "name": "Radio Lushnja",
+    "logo": "http://api.radiosworld.info/files/radio/logo/aa843523b36b56e95b49362ab06c83cba3644090.jpeg",
+    "category": "Alternative",
+    "url": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3"
+  },
+  {
+    "name": "Radio Dielli",
+    "logo": "http://api.radiosworld.info/files/radio/logo/69765a160ab88dfb5e1f44de8f311d2516cb1574.jpeg",
+    "category": "News",
+    "url": "http://radiodielli.synology.me/radio/8000/radio.mp3"
+  },
+  {
+    "name": "Radio Nostalgjia",
+    "logo": "http://api.radiosworld.info/files/radio/logo/281f2c395b93673413d5d6ca0ab47c2a94f404ea.png",
+    "category": "Acid Jazz",
+    "url": "http://janus.shoutca.st:8318/radionostalgjia"
+  },
+  {
+    "name": "Radio Dashuria",
+    "logo": "http://api.radiosworld.info/files/radio/logo/793521aca9a2fe18f27eb047376ba53c9c778140.png",
+    "category": "Acid Jazz",
+    "url": "https://listen.radioking.com/radio/465815/stream/521297"
+  },
+  {
+    "name": "Radio Dukagjini",
+    "logo": "http://api.radiosworld.info/files/radio/logo/a4fb6f4c2dccc0a3f823a555d0a5c46521d36743.png",
+    "category": "Alternative",
+    "url": "https://s2.voscast.com:8825/radiodukagjini"
+  },
+  {
+    "name": "Radio Koha",
+    "logo": "http://api.radiosworld.info/files/radio/logo/a2ebf1c018b749a74bbcf435e76e056de81860d9.png",
+    "category": "80",
+    "url": "http://perseus.shoutca.st:9504/stream"
+  },
+  {
+    "name": "Radio Tirana 2",
+    "logo": "http://api.radiosworld.info/files/radio/logo/44c56f5402835e2c634ab6b63a341636af6b6a29.png",
+    "category": "Acoustic",
+    "url": "http://79.106.48.2:8000/radiotirana2"
+  },
+  {
+    "name": "Radio Viciana Folklor ",
+    "logo": "http://api.radiosworld.info/files/radio/logo/b2dc6c32596893aaf87800415ee0947c9dd14cdf.jpg",
+    "category": "Acid Jazz",
+    "url": "http://radioviciana.org:8020/;"
+  },
+  {
+    "name": "Radio Maria / Albania",
+    "logo": "http://api.radiosworld.info/files/radio/logo/54c21950fbd5aa983b0ad69462df02552a05c6d7.png",
+    "category": "90",
+    "url": "http://dreamsiteradiocp2.com:8028/stream"
+  },
+  {
+    "name": "Radio 1",
+    "logo": "http://api.radiosworld.info/files/radio/logo/2caf3c6d5888f11d7fdd71be86362a2fb0834d21.png",
+    "category": "English",
+    "url": "http://audio.radio1.al:88/broadwavehigh.mp3?src=1&amp%3Brate=1"
+  },
+  {
+    "name": "My Music Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/42ec4fc2cfb2b056626241786fab0c82c8aebee8.png",
+    "category": "Hip-hop",
+    "url": "https://live.top-media.al/mmr"
+  },
+  {
+    "name": "Radio Pendimi Kanali 1",
+    "logo": "http://api.radiosworld.info/files/radio/logo/b1bc7839ba815e25a1c9aead273c152bad449616.png",
+    "category": "Religious",
+    "url": "http://rtvpendimi.com:8014/;&type=mp3"
+  },
+  {
+    "name": "Radio Viciana",
+    "logo": "http://api.radiosworld.info/files/radio/logo/a202a842fff34efb2a460d7bb8574ecaf790ffd8.png",
+    "category": "Alternative",
+    "url": "http://radioviciana.org:8000/;"
+  },
+  {
+    "name": "Radio Kontakt",
+    "logo": "http://api.radiosworld.info/files/radio/logo/f9300f123542ac83f414542b3e84fa7080d1c013.png",
+    "category": "Acid Jazz",
+    "url": "http://84.20.83.24:88/broadwavehigh.mp3?src=1"
+  },
+  {
+    "name": "Radio Tirana 3",
+    "logo": "http://api.radiosworld.info/files/radio/logo/7be6ee6d34c32037b6c38dcc09f4d0bc1aa2d987.png",
+    "category": "News",
+    "url": "http://79.106.48.2:8000/radiotirana3"
+  },
+  {
+    "name": "Hip hop",
+    "logo": "http://api.radiosworld.info/files/radio/logo/a1aaccf626c1d81db59bef51d0ebef65565bbbbe.webp",
+    "category": "English",
+    "url": "http://icecast.omroep.nl/funx-hiphop-bb-mp3"
+  },
+  {
+    "name": "Radio Marimanga Danimarke",
+    "logo": "http://api.radiosworld.info/files/radio/logo/4f6028e7fb655be52adbf67adf7dd9a32bcaf661.png",
+    "category": "News",
+    "url": "https://sonicpanel.totalstreaming.net:8016/;"
+  },
+  {
+    "name": "Radio Gjakova",
+    "logo": "http://api.radiosworld.info/files/radio/logo/1fb62d9ef022e0f74ad687c9cdcd00b0bcd1b625.png",
+    "category": "Active Rock",
+    "url": "http://37.26.69.30:8080/;"
+  },
+  {
+    "name": "Radio Hasi Thate",
+    "logo": "http://api.radiosworld.info/files/radio/logo/e4aebea5be14c232198fd80293a7574c00473cc9.png",
+    "category": "Ambient",
+    "url": "http://listen.lspublic.com:8000/;"
+  },
+  {
+    "name": "Radio One Albania",
+    "logo": "http://api.radiosworld.info/files/radio/logo/2849db1b52993e50931f6a14615488b56b766307.jpg",
+    "category": "Ambient",
+    "url": "https://cp1.sednastream.com/proxy/radioone94?mp=%2Fstream"
+  },
+  {
+    "name": "RadioKosova.Net",
+    "logo": "http://api.radiosworld.info/files/radio/logo/b2848012029340da77243653e6e6b3b94bc9c7c7.png",
+    "category": "Song",
+    "url": "http://ns5.albaservers.com:8010/;"
+  },
+  {
+    "name": "Radio Fontana",
+    "logo": "http://api.radiosworld.info/files/radio/logo/fa2f811b420f330b211864ca725bbeb3361a8b56.png",
+    "category": "Live music",
+    "url": "http://46.4.104.253:8010/;"
+  },
+  {
+    "name": "RTI Radio Tirana International",
+    "logo": "http://api.radiosworld.info/files/radio/logo/4e588a8d542e457f354af06e412e0dad50048aec.png",
+    "category": "Alternative",
+    "url": "http://79.106.48.2:8000/rti"
+  },
+  {
+    "name": "Radio Pendimi Kanali 2",
+    "logo": "http://api.radiosworld.info/files/radio/logo/5ba5eb19758dcbbd229f49f9a51c80152987b437.png",
+    "category": "Islamic",
+    "url": "http://rtvpendimi.com:8020/;stream.nsv"
+  },
+  {
+    "name": "Eurostar Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/03ad4bc8b2a28f7d714adf5fd8d6767d8d72644e.png",
+    "category": "60 years",
+    "url": "http://radioeurostar.al:9000/;"
+  },
+  {
+    "name": "Play Radio Albania",
+    "logo": "http://api.radiosworld.info/files/radio/logo/653b928e29c957f17ce56839b518088ea25a3333.png",
+    "category": "Live music",
+    "url": "http://stream.radiojar.com/sx7zrht0pg0uv"
+  },
+  {
+    "name": "City Radio Albania",
+    "logo": "http://api.radiosworld.info/files/radio/logo/07b7c9641919ccaa78695a20bbf422fdd826c318.jpg",
+    "category": "Community",
+    "url": "https://cp1.sednastream.com/proxy/cityradio?mp=%2Fstream"
+  },
+  {
+    "name": "Dukagjini Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/9581e4bc97ea152b80ac0074504defcc32ddbcda.png",
+    "category": "Alternative",
+    "url": "http://198.178.123.17:8824/;"
+  },
+  {
+    "name": "Radio Kontakt 89.3 FM",
+    "logo": "http://api.radiosworld.info/files/radio/logo/7def586c61364460fb3f02dc47decf79d537c6fc.png",
+    "category": "Alternative",
+    "url": "http://84.20.83.24:88/broadwavehigh.mp3"
+  },
+  {
+    "name": "Burimi Jetes / RADIO KURANI",
+    "logo": "http://api.radiosworld.info/files/radio/logo/25789d777be90c0c96a65be732a181c0427cc56a.png",
+    "category": "News",
+    "url": "http://live.mp3quran.net:8006/;"
+  },
+  {
+    "name": "Radio Skendera",
+    "logo": "http://api.radiosworld.info/files/radio/logo/151e3fa324eb1fec82bbbf1283ac81e2c690e242.jpg",
+    "category": "",
+    "url": "https://a1.asurahosting.com:9110/radio.mp3"
+  },
+  {
+    "name": "Radio 7",
+    "logo": "http://api.radiosworld.info/files/radio/logo/129e45abbc1746b573a86137b6a386e56ca0c87d.png",
+    "category": "Alternative",
+    "url": "http://cp1.sednastream.com:8013/live"
+  },
+  {
+    "name": "Radio Logos 94.2",
+    "logo": "http://api.radiosworld.info/files/radio/logo/baa9f0f508c0c139524a0046f92bc12f0a14a3bf.jpg",
+    "category": "Alternative",
+    "url": "http://s2.stationplaylist.com:9280/listen.aac"
+  },
+  {
+    "name": "LS Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/aeae010893520ad924f63ea1648ad53ca68f0150.png",
+    "category": "News",
+    "url": "http://live.lspublic.com:27022/;"
+  },
+  {
+    "name": "Eagle Radio 94.0",
+    "logo": "http://api.radiosworld.info/files/radio/logo/fc2d6706c67b0e7c8af70282b12e042bc6c49003.jpg",
+    "category": "Alternative",
+    "url": "http://cp1.sednastream.com/proxy/radioone94?mp=%2Fstream"
+  },
+  {
+    "name": "Tirana Jazz Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/1a120720a813a079627d4fa1b28ada278c3025f0.jpg",
+    "category": "Acid Jazz",
+    "url": "http://live.tiranajazzradio.com:8000/stream"
+  },
+  {
+    "name": "Radio Emanuel",
+    "logo": "http://api.radiosworld.info/files/radio/logo/95cb21c13a58da5c65bbf2eebeebf72f5e183a77.png",
+    "category": "Acoustic",
+    "url": "http://185.221.253.173:7800/"
+  },
+  {
+    "name": "Radio Club FM Kosove",
+    "logo": "http://api.radiosworld.info/files/radio/logo/3ee617dac1ff533574725af9528a4ecc94588296.jpg",
+    "category": "Music",
+    "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=%2Fstream"
+  },
+  {
+    "name": "Alfa e Omega Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/33bb6cae41d5387f639970c3f50811ddedfb2dff.png",
+    "category": "Years 40",
+    "url": "http://cp13.shoutcheap.com:8094/"
+  },
+  {
+    "name": "Radio Tirana Klasik",
+    "logo": "http://api.radiosworld.info/files/radio/logo/97a4578d3e5b3e49bbbba17907a2260d58fde6b8.png",
+    "category": "Classic",
+    "url": "http://79.106.48.2:8000/radiotiranaklasik1"
+  },
+  {
+    "name": "Best Pro Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/8fab01b4a30d961046b7c343f7c6da433768fefc.png",
+    "category": "",
+    "url": "https://az1.sednastream.com/radio/8000/Live"
+  },
+  {
+    "name": "RFI Monde",
+    "logo": "http://api.radiosworld.info/files/radio/logo/40a3d4a1d276b4eef4e63d9f5cac3533ec3b20e7.png",
+    "category": "Afro-Beat",
+    "url": "https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3"
+  },
+  {
+    "name": "Radio Tirana Femije",
+    "logo": "http://api.radiosworld.info/files/radio/logo/c3299d384f716b2a6b004183fd5e4c25d82c21d6.png",
+    "category": "Live music",
+    "url": "http://79.106.48.2:8000/radiotiranafemije"
+  },
+  {
+    "name": "Radio Positive Gold FM",
+    "logo": "http://api.radiosworld.info/files/radio/logo/51eec7896e426c5029677e44eae340a92113aa2a.png",
+    "category": "60 years",
+    "url": "https://positivealtradio.streamguys1.com/positivegold"
+  },
+  {
+    "name": "Radio Tirana Jazz",
+    "logo": "http://api.radiosworld.info/files/radio/logo/d6ee0b1e04295f9fb0c1ec6a4409814ce8ace4f8.png",
+    "category": "Ambient",
+    "url": "http://79.106.48.2:8000/radiotiranajazz"
+  },
+  {
+    "name": "Hyrule",
+    "logo": "http://api.radiosworld.info/files/radio/logo/1019cb1d301fbe3a1004a2cb2495ababd6a5b665.png",
+    "category": "Classical",
+    "url": "http://listen.radiohyrule.com:8000/listen"
+  },
+  {
+    "name": "Radio Ngjallja",
+    "logo": "http://api.radiosworld.info/files/radio/logo/ca309d40ca1f5650095469a4974c990706b63ea4.png",
+    "category": "60 years",
+    "url": "http://84.20.84.114:1234/radiongjallja;"
+  },
+  {
+    "name": "Radio 7 Albania",
+    "logo": "http://api.radiosworld.info/files/radio/logo/80963f996598eaf29f42c1dcc04a1b6e0b6c89ad.png",
+    "category": "Ambient",
+    "url": "https://cp1.sednastream.com/proxy/radio7albania?mp=%2Flive"
+  },
+  {
+    "name": "Jesus Coming FM / Albanian",
+    "logo": "http://api.radiosworld.info/files/radio/logo/3293749b6b6833bd9a62753b0c6cfb4b7e93c84e.jpg",
+    "category": "Religious",
+    "url": "http://live.jesuscomingfm.com:8424"
+  },
+  {
+    "name": "Fun Radio ",
+    "logo": "http://api.radiosworld.info/files/radio/logo/89eb9d38a460289478cecfe56aaea2187bc03480.png",
+    "category": "",
+    "url": "http://solid9.streamupsolutions.com:8077/stream       "
+  },
+  {
+    "name": "Alfa & Omega Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/90556617d3e7cf1901e5cd3ff1dfab31a9f6f2a7.jpg",
+    "category": "Music",
+    "url": "http://cp13.shoutcheap.com:8094/;"
+  },
+  {
+    "name": "Radio Kosova",
+    "logo": "https://static.wixstatic.com/media/a72f3a_4f0d873ecfa34e0db077427922f8661e~mv2.png?dn=r19298.png",
+    "category": "",
+    "url": "http://ns5.albaservers.com:8010/;stream.mp3"
+  },
+  {
+    "name": "Radio Logos Albania",
+    "logo": "https://static.wixstatic.com/media/a72f3a_ec63018c1e764534a2fdf5e983c3a06d~mv2.png?dn=r19299.png",
+    "category": "",
+    "url": "http://s2.stationplaylist.com:8240"
+  },
+  {
+    "name": "A Better Radio",
+    "logo": "https://static.wixstatic.com/media/a72f3a_c5abcebb1d47408a8f1a1279e148e7c8~mv2.png?dn=r19081.png",
+    "category": "",
+    "url": "http://listen.radionomy.com/a-better-70s-gold-hits-station?type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "Audio Islam",
+    "logo": "https://static.wixstatic.com/media/a72f3a_44d127b0ca2749e2ac85c88591f8c731~mv2.png?dn=r19084.png",
+    "category": "",
+    "url": "http://listen.radioislam.org.za:8080/radioislam.mp3?type=.mp3/;stream.mp3"
+  },
+  {
+    "name": "Radio Dizhoni",
+    "logo": "https://static.wixstatic.com/media/a72f3a_bfb3e20470194dcfb9c5e4fd5bf28ead~mv2.png?dn=r19106.png",
+    "category": "",
+    "url": "http://radio.radiodardania.com:4000/;stream.mp3"
+  },
+  {
+    "name": "Radio NRG",
+    "logo": "https://static.wixstatic.com/media/a72f3a_1df94c5593d4441594c11779b133ab9d~mv2.png?dn=r19128.png",
+    "category": "",
+    "url": "http://ice31.securenetsystems.net/AL09?type=.flv"
+  },
+  {
+    "name": "Radio Emigranti",
+    "logo": "https://static.wixstatic.com/media/a72f3a_ad429e8c888644d8a5e83e9e04de453c~mv2.png?dn=r4326.png",
+    "category": "",
+    "url": "http://www.radioemigranti.com:8000/radio48k"
+  },
+  {
+    "name": "NRG Energy Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/61ffaedcb686f532b2c2e7780eb37161180b7575.jpg",
+    "category": "English",
+    "url": "http://ice31.securenetsystems.net:80/AL09"
+  },
+  {
+    "name": "NRG Energy Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/61ffaedcb686f532b2c2e7780eb37161180b7575.jpg",
+    "category": "English",
+    "url": "https://ice31.securenetsystems.net/AL09"
+  },
+  {
+    "name": "LS Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/aeae010893520ad924f63ea1648ad53ca68f0150.png",
+    "category": "News",
+    "url": "http://live.lspublic.com:27022/;stream.mp3"
+  },
+  {
+    "name": "Radio Dukagjini",
+    "logo": "http://api.radiosworld.info/files/radio/logo/a4fb6f4c2dccc0a3f823a555d0a5c46521d36743.png",
+    "category": "Alternative",
+    "url": "http://s6.voscast.com:8824/;stream.mp3"
+  },
+  {
+    "name": "Radio 1",
+    "logo": "http://api.radiosworld.info/files/radio/logo/2caf3c6d5888f11d7fdd71be86362a2fb0834d21.png",
+    "category": "English",
+    "url": "http://audio.radio1.al:88/broadwavehigh.mp3?src=1&amp%3Brate=1&bundle-id=tunein.player&store-id=tunein.player&store-url=&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MjMyODA3MiwiaXNzIjoidGlzcnYifQ.ZRj9wo-h-urni_8QK97reuJUt0lnJtl-VY7NLH3i5Mk"
+  },
+  {
+    "name": "RadioKoha",
+    "logo": "http://api.radiosworld.info/files/radio/logo/1f62e869d9d90d0aef1df880dacf324b8df8bc0e.png",
+    "category": "Ambient",
+    "url": "https://radiokoha.radioca.st/stream"
+  },
+  {
+    "name": "Radio Maria",
+    "logo": "http://api.radiosworld.info/files/radio/logo/067ead6d6bb11848408438adcf28dbec4fdac9e9.png",
+    "category": "90",
+    "url": "http://dreamsiteradiocp2.com:8028/;stream.nsv"
+  },
+  {
+    "name": "NRG / Energy Radio",
+    "logo": "http://api.radiosworld.info/files/radio/logo/c477622de1b673af749c6afc7ec484552a7e5383.png",
+    "category": "Live music",
+    "url": "https://ice31.securenetsystems.net/AL09?type=.flv"
+  },
+  {
+    "name": "Radio Emigranti",
+    "logo": "http://api.radiosworld.info/files/radio/logo/c8737ae1b955bea1289e47d7840a03c413784477.jpeg",
+    "category": "Acid Jazz",
+    "url": "http://www.radioemigranti.com:8000/radio96k"
+  },
+  {
+    "name": "ENERGY Albania",
+    "logo": "null",
+    "category": "",
+    "url": "http://ice31.securenetsystems.net/AL09"
+  },
+  {
+    "name": "RTK Radio Kosova 1",
+    "logo": "null",
+    "category": "",
+    "url": "http://82.114.72.2:8088/;"
+  },
+  {
+    "name": "Radio Logos",
+    "logo": "null",
+    "category": "",
+    "url": "http://s2.stationplaylist.com:8240/"
+  },
+  {
+    "name": "Radyo Next Star",
+    "logo": "null",
+    "category": "",
+    "url": "https://radyo1.radyo-dinle.tc:7082/;"
+  },
+  {
+    "name": "Dukagjini Radio live",
+    "logo": "null",
+    "category": "",
+    "url": "http://s6.voscast.com:8824/"
+  },
+  {
+    "name": "NRG Energy Radio",
+    "logo": "",
+    "category": "",
+    "url": "http://ice31.securenetsystems.net:80/AL09?playSessionID=5CA11F5F-A3CD-C258-DB63DE17B24362A9"
+  },
+  {
+    "name": "Alfa dhe Omega Radio",
+    "logo": "",
+    "category": "",
+    "url": "http://cp13.shoutcheap.com:8094/;?1717420594334="
+  },
+  {
+    "name": "Radio Dardania",
+    "logo": "",
+    "category": "",
+    "url": "http://94.23.52.95:4000/;&amp;type=mp3"
+  },
+  {
+    "name": "Radio Emigranti",
+    "logo": "",
+    "category": "",
+    "url": "http://www.radioemigranti.com:8000/radioauto128"
+  },
+  {
+    "name": "Radio Sharri",
+    "logo": "",
+    "category": "",
+    "url": "http://radio-sharri.info:8020/;"
+  },
+  {
+    "name": "Radio Travel",
+    "logo": "",
+    "category": "",
+    "url": "https://cp1.sednastream.com/proxy/radiotravel?mp=/stream%3Fver%3D20616"
+  },
+  {
+    "name": "1 Radio 93.2 | Internet Only | Religious",
+    "logo": "",
+    "url": "http://video.radio1.al/broadwavehigh.mp3"
+  },
+  {
+    "name": "93 FM Albania | Internet Only | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/g41127628nhvv"
+  },
+  {
+    "name": "Aksa Radio | Internet Only | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/sv7pqjlddbytv"
+  },
+  {
+    "name": "Albaninan Baby Radio | Internet Only | Kids",
+    "logo": "",
+    "url": "https://stream.zeno.fm/d6v0xkba04zuv"
+  },
+  {
+    "name": "Albtimes Radio | Tirana | News|Sports",
+    "logo": "",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO.mp3"
+  },
+  {
+    "name": "Alpo Radio 94.1 FM | Gjirokaster | Pop",
+    "logo": "",
+    "url": "http://cp1.sednastream.com:8001/stream"
+  },
+  {
+    "name": "Antena Shqip 90.2 | Internet Only | Gospel|Christian",
+    "logo": "",
+    "url": "http://s38.myradiostream.com:8598/;listen.mp3"
+  },
+  {
+    "name": "Blue Fire Angel | Herndon | 80s|90s",
+    "logo": "",
+    "url": "http://stream.laut.fm/bluefireangel"
+  },
+  {
+    "name": "Burimi Radio | Internet Only | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/yp4eqf0u3ehvv"
+  },
+  {
+    "name": "Chill Radio | Tirana | Variety",
+    "logo": "",
+    "url": "http://eu8.fastcast4u.com:21599/stream"
+  },
+  {
+    "name": "City Radio 88.0 | Tirana | Pop",
+    "logo": "",
+    "url": "http://cp1.sednastream.com:8044/stream/;"
+  },
+  {
+    "name": "Club FM 100.4 | Tirana | Electro",
+    "logo": "",
+    "url": "http://cp1.sednastream.com:8014/stream/;"
+  },
+  {
+    "name": "Dardania | Tirana | Traditional music|World",
+    "logo": "",
+    "url": "https://stream.zeno.fm/y2t9hm04zehvv"
+  },
+  {
+    "name": "Divjaka | Divjaka | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/brc5btguqg8uv"
+  },
+  {
+    "name": "Drenasi 92.1 FM | Internet Only | Pop",
+    "logo": "",
+    "url": "http://213.163.109.13:8010"
+  },
+  {
+    "name": "Dukagjini | Kosove | Pop",
+    "logo": "",
+    "url": "http://198.178.123.17:8824/"
+  },
+  {
+    "name": "Elbasani Radio | Internet Only | Local Music",
+    "logo": "",
+    "url": "https://stream.zeno.fm/dvy5yva4cuquv"
+  },
+  {
+    "name": "Emigranti | Internet Only | World",
+    "logo": "",
+    "url": "http://www.radioemigranti.com:8000/radio128k"
+  },
+  {
+    "name": "Gora Dragas | Internet Only | Local Music",
+    "logo": "",
+    "url": "http://uzivo.radiogora.org:8117/;"
+  },
+  {
+    "name": "Hip Hop Shqip | Internet Only | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/tjsrboavkfvtv"
+  },
+  {
+    "name": "Jesus Albanian | Internet Only | Religious",
+    "logo": "",
+    "url": "http://live.jesuscomingfm.com:8424/stream/;"
+  },
+  {
+    "name": "Lepurushja | Lezhe | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/f4d7hyz504zuv"
+  },
+  {
+    "name": "Lezha Live RL | Lezhe | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/5sdeyn171k8uv"
+  },
+  {
+    "name": "Logos 94.2 FM | Korce | Christian Contemporary",
+    "logo": "",
+    "url": "https://s2.stationplaylist.com:9280/listen.aac"
+  },
+  {
+    "name": "Loti Vu | Tirana | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/tb9oychoit2tv"
+  },
+  {
+    "name": "Lushnja 95.5 | Lushnje | Rock|Pop|Folk",
+    "logo": "",
+    "url": "http://radio.albcast.pro:8070/radio.mp3"
+  },
+  {
+    "name": "Maria Albania 91.4 FM | Tirana | Religious",
+    "logo": "",
+    "url": "http://dreamsiteradiocp2.com:8028/"
+  },
+  {
+    "name": "Marimanga | Tirana | Folk",
+    "logo": "",
+    "url": "http://sonicpanel.totalstreaming.net:8016/stream"
+  },
+  {
+    "name": "MCN Radio 103.1 | Tirana | Variety",
+    "logo": "",
+    "url": "http://46.183.121.48:8000/mcn"
+  },
+  {
+    "name": "Melodi Zemre | Tirana | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/m1p123fqwtzuv"
+  },
+  {
+    "name": "Nacional 93.6 | Tirana | Variety|Folk",
+    "logo": "",
+    "url": "https://stream.zeno.fm/vkqjn43uuptuv"
+  },
+  {
+    "name": "Natyra Radio | Internet Only | Variety",
+    "logo": "",
+    "url": "https://mars.streamerr.co:8266/stream"
+  },
+  {
+    "name": "One Albania 94.0 | Tirana | Local Music",
+    "logo": "",
+    "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
+  },
+  {
+    "name": "Pendimi Kanali Channel 2 | Tirana | Islamic",
+    "logo": "",
+    "url": "http://rtvpendimi.com:8020/stream"
+  },
+  {
+    "name": "Play Radio Afro | Tirana | African",
+    "logo": "",
+    "url": "http://185.249.225.246:8030/playafro"
+  },
+  {
+    "name": "Play Radio Albania | Tirana | Variety",
+    "logo": "",
+    "url": "http://185.249.225.246:8040/playradio"
+  },
+  {
+    "name": "Play Radio Albania Club | Tirana | Variety",
+    "logo": "",
+    "url": "https://business.playfm.al:8020/radio.mp3/;"
+  },
+  {
+    "name": "Play Radio EDM | Tirana | Variety",
+    "logo": "",
+    "url": "http://185.249.225.246:8020/playedm"
+  },
+  {
+    "name": "Play Radio Fitness | Tirana | Variety",
+    "logo": "",
+    "url": "http://185.249.225.246:8060/playfitness"
+  },
+  {
+    "name": "Play Radio Folk | Tirana | Folk",
+    "logo": "",
+    "url": "http://185.249.225.246:8000/playfolk"
+  },
+  {
+    "name": "Play Radio Latin | Tirana | Latin",
+    "logo": "",
+    "url": "http://185.249.225.246:8090/playlatin"
+  },
+  {
+    "name": "Play Radio Resto Lounge | Tirana | Variety",
+    "logo": "",
+    "url": "http://185.249.225.246:8070/playresto"
+  },
+  {
+    "name": "Play Radio The Oldies | Tirana | Oldies",
+    "logo": "",
+    "url": "http://185.249.225.246:8010/playtheoldies"
+  },
+  {
+    "name": "Play Radio Vibes | Tirana | Dance",
+    "logo": "",
+    "url": "http://185.249.225.246:8050/playvibes"
+  },
+  {
+    "name": "Positive Gold | Tirana | Pop|Top 40",
+    "logo": "",
+    "url": "http://positivealtradio.streamguys1.com/positivegold"
+  },
+  {
+    "name": "Pulla | Internet Only | Variety",
+    "logo": "",
+    "url": "http://46.4.104.253:9986"
+  },
+  {
+    "name": "Quran in Albanian | Internet Only | Islamic",
+    "logo": "",
+    "url": "http://quraan.us:9996/"
+  },
+  {
+    "name": "Shqip Radio 92.0 | Tirana | Hits",
+    "logo": "",
+    "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream"
+  },
+  {
+    "name": "Shqiponja Kumanove | Internet Only | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/n50502cpd0hvv"
+  },
+  {
+    "name": "SI Radio Fresh | Tirana | Top 40|RnB",
+    "logo": "",
+    "url": "https://stream.zeno.fm/a2w3wwadm48uv"
+  },
+  {
+    "name": "Sophie Caffe | Tirana | Adult Contemporary",
+    "logo": "",
+    "url": "http://sophie1.skylineserver.com/;"
+  },
+  {
+    "name": "Thesaret | Tirana | Variety",
+    "logo": "",
+    "url": "https://stream.zeno.fm/ubzj8twgccstv"
+  },
+  {
+    "name": "Top Gold 100.8 | Tirana | Rock|Pop",
+    "logo": "",
+    "url": "http://live.topgold.al/topgold"
+  },
+  {
+    "name": "Travel 104.6 FM | Tirana | Pop",
+    "logo": "",
+    "url": "https://cp1.sednastream.com/proxy/radiotravel?mp=/stream"
+  },
+  {
+    "name": "Viciana Popullore | Tirana | Pop|Albanian|Hits",
+    "logo": "",
+    "url": "http://radioviciana.org:8030/;"
+  },
+  {
+    "name": "Radio Travel",
+    "logo": "",
+    "category": "",
+    "url": "https://cp1.sednastream.com/proxy/radiotravel?mp=/stream%3Fver%3D28050"
+  },
+  {
+    "name": "Alpo Radio 94.1 FM | Gjirokaster | Pop",
+    "logo": "",
+    "url": "http://cast.az-streamingserver.com:8521/stream"
+  },
+  {
+    "name": "Eurostar 94.4 | Tirana | Variety",
+    "logo": "",
+    "url": "http://radioeurostar.al:9000/;;"
+  },
+  {
+    "name": "Play Radio Albania | Tirana | Variety",
+    "logo": "",
+    "url": "https://stream.radiojar.com/sx7zrht0pg0uv"
+  },
+  {
+    "name": "Radio 4 Plus | Lushnje | Variety",
+    "logo": "",
+    "url": "http://144.91.101.136:8060/radio.mp3"
+  },
+  {
+    "name": "Rainca | Tirana | Pop|Folk|Top 40|Albanian",
+    "logo": "",
+    "url": "https://rainca.ejapak.com:9000/stream"
+  },
+  {
+    "name": "Radio Dardania",
+    "logo": "",
+    "category": "",
+    "url": "http://radio.radiodardania.com:4000/;&amp;type=mp3"
+  },
+  {
+    "name": "Radio Sharri",
+    "logo": "",
+    "category": "",
+    "url": "http://live.radio-sharri.info:8020"
+  },
+  {
+    "name": "Ahireti | Tirana | Islamic",
+    "logo": "",
+    "url": "http://198.245.61.161:8008/index.html;stream.nsv"
+  },
+  {
+    "name": "Maria SHQIPTARE Albania | Tirana | Christian Music",
+    "logo": "",
+    "url": "http://dreamsiteradiocp.com:8008/;"
+  },
+  {
+    "name": "Play Radio Lounge | Tirana | Lounge",
+    "logo": "",
+    "url": "http://185.249.225.246:8050/playlounge"
+  },
+  {
+    "name": "Svirca Radio | Internet Only | Variety",
+    "logo": "",
+    "url": "http://node-08.zeno.fm/3kpeqsqz7k0uv.aac"
+  },
+  {
+    "name": "Radio Zemra",
+    "logo": "null",
+    "category": "Ambient",
+    "url": "https://degjo.zemra.org:8000/;stream.mp3"
+  },
+  {
+    "name": "Albania Kosova Online | Internet Only | Variety",
+    "logo": "",
+    "url": "http://144.76.33.185:8000/;"
+  },
+  {
+    "name": "Dardania | Tirana | Traditional music|World",
+    "logo": "",
+    "url": "http://radio.radiodardania.com:4000/;"
+  },
+  {
+    "name": "Albaninan Baby Radio | Internet Only | Kids",
+    "logo": "",
+    "url": "http://stream.zeno.fm/d6v0xkba04zuv"
+  },
+  {
+    "name": "Burimi Radio | Internet Only | Variety",
+    "logo": "",
+    "url": "http://stream.zeno.fm/yp4eqf0u3ehvv"
+  },
+  {
+    "name": "Elbasani Radio | Internet Only | Local Music",
+    "logo": "",
+    "url": "http://node-26.zeno.fm/dvy5yva4cuquv.aac"
+  },
+  {
+    "name": "Lepurushja | Lezhe | Variety",
+    "logo": "",
+    "url": "http://stream.zeno.fm/f4d7hyz504zuv"
+  },
+  {
+    "name": "SI Radio Fresh | Tirana | Top 40|RnB",
+    "logo": "",
+    "url": "http://stream.zeno.fm/a2w3wwadm48uv"
+  },
+  {
+    "name": "Genti Radio | Internet Only | Hits",
+    "logo": "",
+    "url": "http://node-24.zeno.fm/sm20v9e362quv.aac"
+  },
+  {
+    "name": "Radio Pulla",
+    "logo": "",
+    "category": "News",
+    "url": "http://46.4.104.253:9986/;"
+  },
+  {
+    "name": "Elbasani Radio | Internet Only | Local Music",
+    "logo": "",
+    "url": "https://node-26.zeno.fm/dvy5yva4cuquv.aac"
+  },
+  {
+    "name": "Genti Radio | Internet Only | Hits",
+    "logo": "",
+    "url": "https://node-24.zeno.fm/sm20v9e362quv.aac"
+  },
+  {
+    "name": "Svirca Radio | | Variety",
+    "logo": "",
+    "url": "https://node-08.zeno.fm/3kpeqsqz7k0uv.aac"
+  },
+  {
+    "name": "Emigranti | Tirana | Albanian Music|Folk|World",
+    "logo": "",
+    "url": "http://www.radioemigranti.com:8000/radio"
+  },
+  {
+    "name": "Club FM | Tirana | Electro",
+    "logo": "",
+    "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream"
+  },
+  {
+    "name": "Radio Dardania",
+    "logo": "",
+    "category": "Acid Jazz",
+    "url": "http://94.23.52.95:4000/;"
+  },
+  {
+    "name": "radiomergimi.com | Internet Only | European",
+    "logo": "",
+    "url": "http://144.76.33.185:8000"
+  },
+  {
+    "name": "Radio Dardania",
+    "logo": "",
+    "category": "Acid Jazz",
+    "url": "http://radio.radiodardania.com:4000/stream/1/"
+  },
+  {
+    "name": "Radio 7 FM 97.7",
+    "logo": "null",
+    "category": "Ambient",
+    "url": "http://listen.radionomy.com/BienvenidaFM/"
+  },
+  {
+    "name": "AlbaniaRAP",
+    "category": "Gangsta Rap",
+    "logo": "",
+    "url": "http://listen.radionomy.com:80/AlbaniaRAP"
+  },
+  {
+    "name": "Radio Albania",
+    "category": "International",
+    "logo": "",
+    "url": "http://listen.radionomy.com:80/Radio-Albania"
+  }
+]
